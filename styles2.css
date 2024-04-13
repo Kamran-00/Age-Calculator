@@ -1,0 +1,64 @@
+﻿/* Add your unique styles here */
+.container {
+    text-align: center;
+    margin-top: 50px;
+    padding: 0cap;
+}
+body{
+    background-color: lightblue;
+
+}
+
+h1 {
+
+    font-size: 24px;
+    color: hsl(0, 0%, 20%);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(212, 237, 100, 0.867);
+border-radius: 5em;
+border-top-color: red;
+border-bottom-color: rgb(38, 0, 255);
+border-right-color: rgb(21, 0, 255);
+}
+h1:hover{
+    background-color: rgb(255, 0, 0);
+    color: chartreuse;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 2em;
+    border-left-color: blue;
+    border-top-color: red;
+    border-bottom-color: rgb(255, 0, 166);
+    border-right-color: rgb(21, 0, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input:hover{
+    background-color: rgb(249, 255, 80);
+    color: rgb(255, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  border-color: #b30000;
+    
+    padding: 10px 20px;
+    cursor: pointer ;
+    border-radius: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button:hover {
+    background-color:rgb(249, 255, 80);
+    color: rgb(43, 0, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
